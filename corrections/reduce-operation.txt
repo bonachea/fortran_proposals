@@ -1,7 +1,7 @@
-To: J3                                                     J3/26-XXX
+To: J3                                                     J3/26-198
 Subject: US-012/013: Edits for OPERATION argument to REDUCE
 From: Dan Bonachea
-Date: 2026-October-XX
+Date: 2026-October-14
 References: 26-103r3, 26-007r2
 
 1. Background
